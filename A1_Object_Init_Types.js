@@ -78,6 +78,7 @@ console.log(obj7); //{ name: 'Ashu' }
 // New Words
 
 // To be learnt and discussed
+
 // Constrictor
 //Singleton
 //Prototype
